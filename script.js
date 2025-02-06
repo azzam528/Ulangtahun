@@ -21,7 +21,7 @@ startBtn.addEventListener('click', () => {
 		hh = h / 2,
 
 		opts = {
-			strings: ['HARI INI ADALAH HARINYAAAA', 'AZIQAH SEFILLA', 'SELAMAT ULANG TAHUN', 'AZIQAHHH (✿◠‿◠)'],
+			strings: ['HARI INI ADALAH HARINYA', 'AZIQAH SEFILLA', 'SELAMAT ULANG TAHUN', 'AZIQAH (✿◠‿◠)'],
 			charSize: 30,
 			charSpacing: 35,
 			lineHeight: 40,
